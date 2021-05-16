@@ -1,0 +1,96 @@
+.alert {
+    padding: 15px 19px;
+    border-radius: 6px;
+    margin: 8px 4px;
+    color: #fff;
+    text-align: left;
+}
+
+.alert p {
+    color: #fff;
+}
+
+.error {
+    background-color: rgba(234, 58, 59, 0.91);
+}
+
+.successful {
+    background-color: rgba(93, 208, 73, 0.91);
+}
+
+.left-text {
+    text-align: left;
+}
+
+.color-blue {
+    color: #4DB7FE;
+    float: left;
+}
+
+.color-white {
+    color: #fff !important;
+}
+
+.bottom-space {
+    margin-bottom: 20px;
+}
+
+.color-red {
+    color: rgba(169,19,20,0.91) !important;
+}
+
+.uploadImagesOnline {
+    width: auto;
+    max-height: 400px;
+    max-width: 100%;
+}
+
+.uploadMultiImagesOnline {
+    width: 100%;
+}
+
+.custom-form .review-total span {
+    color: #4DB7FE
+}
+
+.add_booking_form {
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+.reviews-comments-item-text a {
+    color: #425998;
+    font-weight: bold;
+}
+
+.username {
+    position: relative;
+    display: block;
+    text-align: left;
+    padding-bottom: 5px;
+    color: #565656;
+    font-size: 11px;
+    left: 4px;
+}
+
+.review-fullname a {
+    color: #566985;
+    text-align: center;
+    position: relative;
+    top: 6px;
+}
+
+.payment_methods_input {
+    display: none;
+}
+.payment_methods {
+    cursor: pointer;
+}
+
+.payment-submit {
+    cursor: pointer;
+}
+
+.payment-submit:disabled {
+    opacity: 0.4;
+}
